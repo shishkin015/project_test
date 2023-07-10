@@ -1,2 +1,5 @@
 def foo():
-    pass False
+    '''
+    Функция
+    '''
+    pass
